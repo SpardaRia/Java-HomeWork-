@@ -28,7 +28,13 @@ public class Task03 {
         } else if (operation == '*') {
             result = num1 * num2;
         } else if (operation == '/') {
-            result = num1 / num2;
+            if (num2 != 0) {
+                result = num1 / num2;
+            } else {
+                System.out.println("На ноль делить нельзя");
+            }
+        } else {
+            System.out.println("Введён неверный оператор");
         }
         System.out.println(result);
     }

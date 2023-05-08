@@ -1,0 +1,3567 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674822</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674828</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674828</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674829</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674830</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674831</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674832</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674832</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674833</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674834</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674834</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674835</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674835</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674836</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674837</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674837</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674838</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 93</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674838</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674839</millis>
+  <sequence>18</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674840</millis>
+  <sequence>19</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674840</millis>
+  <sequence>20</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674841</millis>
+  <sequence>21</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674841</millis>
+  <sequence>22</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674842</millis>
+  <sequence>23</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674842</millis>
+  <sequence>24</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674843</millis>
+  <sequence>25</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674843</millis>
+  <sequence>26</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674844</millis>
+  <sequence>27</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674845</millis>
+  <sequence>28</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 92</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674845</millis>
+  <sequence>29</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674846</millis>
+  <sequence>30</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674846</millis>
+  <sequence>31</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674847</millis>
+  <sequence>32</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674847</millis>
+  <sequence>33</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674847</millis>
+  <sequence>34</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674848</millis>
+  <sequence>35</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674849</millis>
+  <sequence>36</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674849</millis>
+  <sequence>37</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674850</millis>
+  <sequence>38</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674850</millis>
+  <sequence>39</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674851</millis>
+  <sequence>40</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674851</millis>
+  <sequence>41</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674851</millis>
+  <sequence>42</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674852</millis>
+  <sequence>43</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674852</millis>
+  <sequence>44</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674853</millis>
+  <sequence>45</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674853</millis>
+  <sequence>46</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674854</millis>
+  <sequence>47</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674854</millis>
+  <sequence>48</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674855</millis>
+  <sequence>49</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674855</millis>
+  <sequence>50</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674855</millis>
+  <sequence>51</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674855</millis>
+  <sequence>52</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 65</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674856</millis>
+  <sequence>53</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 65</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674856</millis>
+  <sequence>54</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 65</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674857</millis>
+  <sequence>55</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 65</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674857</millis>
+  <sequence>56</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674858</millis>
+  <sequence>57</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674858</millis>
+  <sequence>58</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674858</millis>
+  <sequence>59</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674859</millis>
+  <sequence>60</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674859</millis>
+  <sequence>61</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674859</millis>
+  <sequence>62</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 60</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674860</millis>
+  <sequence>63</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 14</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674860</millis>
+  <sequence>64</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 14</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674861</millis>
+  <sequence>65</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674861</millis>
+  <sequence>66</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674861</millis>
+  <sequence>67</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674862</millis>
+  <sequence>68</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 57</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674862</millis>
+  <sequence>69</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 55</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674862</millis>
+  <sequence>70</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 55</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674863</millis>
+  <sequence>71</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 55</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674863</millis>
+  <sequence>72</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 55</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674864</millis>
+  <sequence>73</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674865</millis>
+  <sequence>74</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674865</millis>
+  <sequence>75</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 28</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674866</millis>
+  <sequence>76</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674866</millis>
+  <sequence>77</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674867</millis>
+  <sequence>78</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674867</millis>
+  <sequence>79</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674868</millis>
+  <sequence>80</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674868</millis>
+  <sequence>81</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674869</millis>
+  <sequence>82</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674869</millis>
+  <sequence>83</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674870</millis>
+  <sequence>84</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 20</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674870</millis>
+  <sequence>85</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 14</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674871</millis>
+  <sequence>86</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 14</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674871</millis>
+  <sequence>87</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 14</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:14</date>
+  <millis>1683585674871</millis>
+  <sequence>88</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 12</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695733</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695738</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695739</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695740</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695741</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695741</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695742</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695743</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695743</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695744</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695745</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695745</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695746</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695746</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695747</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695748</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695748</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695749</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695749</millis>
+  <sequence>18</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695750</millis>
+  <sequence>19</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695751</millis>
+  <sequence>20</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695751</millis>
+  <sequence>21</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695752</millis>
+  <sequence>22</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695753</millis>
+  <sequence>23</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695753</millis>
+  <sequence>24</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695754</millis>
+  <sequence>25</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695755</millis>
+  <sequence>26</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695755</millis>
+  <sequence>27</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695756</millis>
+  <sequence>28</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695757</millis>
+  <sequence>29</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695757</millis>
+  <sequence>30</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695758</millis>
+  <sequence>31</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695758</millis>
+  <sequence>32</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695759</millis>
+  <sequence>33</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695759</millis>
+  <sequence>34</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695760</millis>
+  <sequence>35</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695761</millis>
+  <sequence>36</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695762</millis>
+  <sequence>37</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695762</millis>
+  <sequence>38</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695763</millis>
+  <sequence>39</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695763</millis>
+  <sequence>40</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695763</millis>
+  <sequence>41</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695764</millis>
+  <sequence>42</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695764</millis>
+  <sequence>43</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695765</millis>
+  <sequence>44</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695765</millis>
+  <sequence>45</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695766</millis>
+  <sequence>46</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695766</millis>
+  <sequence>47</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695766</millis>
+  <sequence>48</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695767</millis>
+  <sequence>49</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695767</millis>
+  <sequence>50</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695768</millis>
+  <sequence>51</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695768</millis>
+  <sequence>52</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695769</millis>
+  <sequence>53</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695769</millis>
+  <sequence>54</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695769</millis>
+  <sequence>55</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695770</millis>
+  <sequence>56</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695770</millis>
+  <sequence>57</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695771</millis>
+  <sequence>58</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695771</millis>
+  <sequence>59</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 76</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695772</millis>
+  <sequence>60</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695772</millis>
+  <sequence>61</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695772</millis>
+  <sequence>62</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695773</millis>
+  <sequence>63</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695773</millis>
+  <sequence>64</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695773</millis>
+  <sequence>65</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695774</millis>
+  <sequence>66</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695774</millis>
+  <sequence>67</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 75</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695774</millis>
+  <sequence>68</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695775</millis>
+  <sequence>69</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695775</millis>
+  <sequence>70</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695777</millis>
+  <sequence>71</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695778</millis>
+  <sequence>72</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695779</millis>
+  <sequence>73</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695780</millis>
+  <sequence>74</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695781</millis>
+  <sequence>75</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695782</millis>
+  <sequence>76</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695782</millis>
+  <sequence>77</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695783</millis>
+  <sequence>78</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695783</millis>
+  <sequence>79</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695784</millis>
+  <sequence>80</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 73</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695784</millis>
+  <sequence>81</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695785</millis>
+  <sequence>82</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695785</millis>
+  <sequence>83</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695786</millis>
+  <sequence>84</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695787</millis>
+  <sequence>85</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695790</millis>
+  <sequence>86</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695791</millis>
+  <sequence>87</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695792</millis>
+  <sequence>88</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695793</millis>
+  <sequence>89</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695794</millis>
+  <sequence>90</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695795</millis>
+  <sequence>91</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695795</millis>
+  <sequence>92</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 67</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695796</millis>
+  <sequence>93</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695797</millis>
+  <sequence>94</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695798</millis>
+  <sequence>95</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695799</millis>
+  <sequence>96</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 65</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695800</millis>
+  <sequence>97</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 65</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695800</millis>
+  <sequence>98</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 34</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695801</millis>
+  <sequence>99</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 34</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695801</millis>
+  <sequence>100</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695802</millis>
+  <sequence>101</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695803</millis>
+  <sequence>102</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 29</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695803</millis>
+  <sequence>103</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695804</millis>
+  <sequence>104</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 45</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695805</millis>
+  <sequence>105</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 27</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695805</millis>
+  <sequence>106</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 34</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695805</millis>
+  <sequence>107</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 34</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695806</millis>
+  <sequence>108</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 15</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695806</millis>
+  <sequence>109</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 29</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695806</millis>
+  <sequence>110</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 29</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695807</millis>
+  <sequence>111</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 27</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695807</millis>
+  <sequence>112</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 27</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695808</millis>
+  <sequence>113</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 16</message>
+</record>
+<record>
+  <date>2023-05-09T01:41:35</date>
+  <millis>1683585695808</millis>
+  <sequence>114</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 15</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055740</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055744</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055745</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055746</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055747</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055747</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055748</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055749</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 46</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055749</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055750</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055750</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055751</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055751</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055752</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055752</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055753</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055754</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055754</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055755</millis>
+  <sequence>18</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055756</millis>
+  <sequence>19</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 62</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055756</millis>
+  <sequence>20</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 46</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055757</millis>
+  <sequence>21</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 46</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055757</millis>
+  <sequence>22</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 46</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055758</millis>
+  <sequence>23</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 46</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055758</millis>
+  <sequence>24</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 42</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055759</millis>
+  <sequence>25</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 42</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055759</millis>
+  <sequence>26</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 42</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055760</millis>
+  <sequence>27</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 42</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055760</millis>
+  <sequence>28</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 22</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055761</millis>
+  <sequence>29</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 41</message>
+</record>
+<record>
+  <date>2023-05-09T01:47:35</date>
+  <millis>1683586055761</millis>
+  <sequence>30</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 22</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998876</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998881</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998882</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998882</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998883</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998884</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998885</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 79</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998885</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998886</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 56</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998887</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 56</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998887</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 56</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998888</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 56</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998888</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998889</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 55</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998889</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 55</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998890</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 39</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998891</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998891</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998892</millis>
+  <sequence>18</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 39</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998893</millis>
+  <sequence>19</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 39</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998893</millis>
+  <sequence>20</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 31</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998894</millis>
+  <sequence>21</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 31</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:18</date>
+  <millis>1683586998895</millis>
+  <sequence>22</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 29</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006570</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 69</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006575</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 69</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006576</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 80</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006577</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006578</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006579</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006579</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 99</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006580</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 69</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006581</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006581</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006582</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 84</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006583</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 63</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006583</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 80</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006584</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 80</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006584</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 80</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006585</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 71</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006585</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 69</message>
+</record>
+<record>
+  <date>2023-05-09T02:03:26</date>
+  <millis>1683587006586</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 63</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064578</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064584</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064585</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064585</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064586</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064587</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064587</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 95</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064588</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 50</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064588</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 73</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064589</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 73</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064589</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 73</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064590</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 73</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064591</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 73</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064591</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 37</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064592</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 50</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064592</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 50</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064593</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 50</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064593</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 50</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064594</millis>
+  <sequence>18</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 50</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064595</millis>
+  <sequence>19</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 37</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064595</millis>
+  <sequence>20</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 37</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064596</millis>
+  <sequence>21</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064597</millis>
+  <sequence>22</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064598</millis>
+  <sequence>23</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 37</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064598</millis>
+  <sequence>24</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 37</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:24</date>
+  <millis>1683587064599</millis>
+  <sequence>25</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Новая запись в лог-файл: 19</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081808</millis>
+  <sequence>0</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 46</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081812</millis>
+  <sequence>1</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 46</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081813</millis>
+  <sequence>2</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 83</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081814</millis>
+  <sequence>3</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 83</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081815</millis>
+  <sequence>4</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 91</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081816</millis>
+  <sequence>5</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 91</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081817</millis>
+  <sequence>6</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 91</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081817</millis>
+  <sequence>7</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081818</millis>
+  <sequence>8</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 46</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081819</millis>
+  <sequence>9</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 46</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081819</millis>
+  <sequence>10</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 83</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081820</millis>
+  <sequence>11</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 87</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081820</millis>
+  <sequence>12</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081821</millis>
+  <sequence>13</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081821</millis>
+  <sequence>14</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 46</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081822</millis>
+  <sequence>15</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 83</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081823</millis>
+  <sequence>16</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 33</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081823</millis>
+  <sequence>17</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 43</message>
+</record>
+<record>
+  <date>2023-05-09T02:04:41</date>
+  <millis>1683587081824</millis>
+  <sequence>18</sequence>
+  <logger>S_02.Task02</logger>
+  <level>INFO</level>
+  <class>S_02.Task02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>New: 33</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
