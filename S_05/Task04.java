@@ -11,9 +11,9 @@ public class Task04 {
 
         public Queen(Board board) {
             while (true) {
-                Random random = new Random();
-                int x = random.nextInt(8);
-                int y = random.nextInt(8);
+                Random rand = new Random();
+                int x = rand.nextInt(8);
+                int y = rand.nextInt(8);
                 if (board.cell[x][y] == 0) {
                     this.x = x;
                     this.y = y;
@@ -33,7 +33,7 @@ public class Task04 {
             this.cell = new int[this.size][this.size];
         }
 
-        public void addQueen(Queen queen, int index) {
+        public void adQueen(Queen queen, int index) {
             this.cell[queen.x][queen.y] = index + 2;
             for (int i = 1; i < 8; i++) {
                 int x = queen.x;
@@ -105,7 +105,7 @@ public class Task04 {
                 return;
             }
             queens[i] = new Queen(board);
-            board.addQueen(queens[i], i);
+            board.adQueen(queens[i], i);
         }
         board.print();
     }
