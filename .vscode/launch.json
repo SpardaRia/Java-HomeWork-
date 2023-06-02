@@ -1,0 +1,112 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Task01",
+            "request": "launch",
+            "mainClass": "S_01.Task01",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task02",
+            "request": "launch",
+            "mainClass": "S_01.Task02",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task03",
+            "request": "launch",
+            "mainClass": "S_01.Task03",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task01(1)",
+            "request": "launch",
+            "mainClass": "S_02.Task01",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task02(1)",
+            "request": "launch",
+            "mainClass": "S_02.Task02",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task03(1)",
+            "request": "launch",
+            "mainClass": "S_02.Task03",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task01(2)",
+            "request": "launch",
+            "mainClass": "S_03.Task01",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task02(2)",
+            "request": "launch",
+            "mainClass": "S_03.Task02",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task03(2)",
+            "request": "launch",
+            "mainClass": "S_03.Task03",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task01(3)",
+            "request": "launch",
+            "mainClass": "S_05.Task01",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task02(3)",
+            "request": "launch",
+            "mainClass": "S_05.Task02",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task03(3)",
+            "request": "launch",
+            "mainClass": "S_05.Task03",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Task04",
+            "request": "launch",
+            "mainClass": "S_05.Task04",
+            "projectName": "Java_220b27c4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "S_06.Main",
+            "projectName": "Java_220b27c4"
+        }
+    ]
+}
